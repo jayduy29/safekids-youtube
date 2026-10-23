@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SafeKids YouTube</string>
+    <string name="parent_settings">Cài đặt Phụ Huynh</string>
+    <string name="enter_pin">Nhập mã PIN</string>
+    <string name="wrong_pin">Mã PIN không đúng!</string>
+    <string name="filter_active">Bộ lọc bảo vệ đang hoạt động</string>
+</resources>
